@@ -1,0 +1,166 @@
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\ApplicationInsights.config
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\csc.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\vbc.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.WebAPI.dll.config
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.WebAPI.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.WebAPI.pdb
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.Web.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.ApplicationInsights.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Newtonsoft.Json.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Net.Http.Formatting.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Http.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Http.WebHost.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.Web.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.ApplicationInsights.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Newtonsoft.Json.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Net.Http.Formatting.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Http.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Http.WebHost.xml
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\obj\Debug\Abc.Northwind.WebAPI.dll
+c:\users\ramazan\documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\obj\Debug\Abc.Northwind.WebAPI.pdb
+C:\Users\Ramazan\Documents\visual studio 2015\Projects\Abc\Abc.Northwind.WebAPI\obj\Debug\Abc.Northwind.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.Business.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.Entities.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\WebGrease.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\FluentValidation.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Ninject.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.DataAccess.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Core.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\EntityFramework.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.Business.pdb
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.Entities.pdb
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\FluentValidation.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Ninject.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.DataAccess.pdb
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Abc.Core.pdb
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\EntityFramework.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Common.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Mvc.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\WebActivatorEx.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Common.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Ramazan\Documents\Visual Studio 2015\Projects\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Mvc.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\ApplicationInsights.config
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\csc.exe
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\vbc.exe
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.WebAPI.dll.config
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.WebAPI.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.WebAPI.pdb
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.Business.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.Entities.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\EntityFramework.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Ninject.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Common.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Mvc.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Http.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\WebActivatorEx.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\WebGrease.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\FluentValidation.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.DataAccess.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Core.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.Business.pdb
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.Entities.pdb
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\EntityFramework.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Ninject.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Common.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Ninject.Web.Mvc.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Http.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\FluentValidation.xml
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Northwind.DataAccess.pdb
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\bin\Abc.Core.pdb
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\obj\Debug\Abc.Northwind.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\obj\Debug\Abc.Northwind.WebAPI.dll
+C:\Users\Ramazan\Desktop\Abc\Abc\Abc.Northwind.WebAPI\obj\Debug\Abc.Northwind.WebAPI.pdb
